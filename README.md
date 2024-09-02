@@ -7,11 +7,11 @@ drives me to continuously improve my skills and knowledge, and I am eager to con
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Motivated security analyst with proven skills in threat assessment and a strong desire to enhance security, eager to contribute while advancing my cybersecurity expertise
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Link |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -34,7 +34,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-AZ%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
