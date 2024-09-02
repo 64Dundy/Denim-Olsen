@@ -13,8 +13,8 @@ Motivated security analyst with proven skills in threat assessment and a strong 
 
 | Project Name                                         | Link |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Wireshark Lab          | <a href="https://github.com/denimolsen/Wireshark-Lab">Wireshark Lab</a>|
+| Microsoft Defender for Endpoint Lab | <a href="https://github.com/0xrajneesh/Home-Lab/blob/master/microsoft-defender-for-endpoint-Home-Lab.md">Microsoft Defender for Endpoint Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
