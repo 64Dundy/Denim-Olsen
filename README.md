@@ -13,10 +13,10 @@ Motivated security analyst with proven skills in threat assessment and a strong 
 
 | Project Name                                         | Link |
 |-----------------------------------------------|----------------------------|
-| Wireshark Lab          | <a href="https://github.com/denimolsen/Wireshark-Lab">Wireshark Lab</a>|
+| Wireshark Lab  | <a href="https://github.com/denimolsen/Wireshark-Lab">Wireshark Lab</a>|
 | Microsoft Defender for Endpoint Lab | <a href="https://github.com/0xrajneesh/Home-Lab/blob/master/microsoft-defender-for-endpoint-Home-Lab.md">Microsoft Defender for Endpoint Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Checkpoint Firewall Lab | <a href="https://github.com/0xrajneesh/Home-Lab/blob/master/Checkpoint%20Firewall%20Home-Lab/checkpoint-firewall-home-lab.md">Checkpoint Firewall Lab</a>|
+| Home Lab | <a href="https://github.com/0xrajneesh/Home-Lab/blob/master/Checkpoint%20Firewall%20Home-Lab/checkpoint-firewall-home-lab.md">Home Lab</a>|
 
 ## Tools
 
